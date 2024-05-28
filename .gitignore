@@ -1,0 +1,6 @@
+/node_modules
+/build
+config.env
+nodemon.json
+.DS_Store
+package-lock.json
